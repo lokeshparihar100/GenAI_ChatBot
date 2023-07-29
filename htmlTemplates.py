@@ -273,7 +273,7 @@ Enter a video link and ask your questions.
 </div>
 </div>
 <div class="author">
-    A project by Jaipur Jaguars <img width="50" height="50" src="https://img.icons8.com/bubbles/50/jaguar.png" alt="jaguar"/>
+    A project by Developer <img width="50" height="50" src="https://img.icons8.com/bubbles/50/jaguar.png" alt="jaguar"/>
 </div>
 '''
 
